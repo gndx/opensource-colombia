@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 22 projects · 7 categories
+> 📊 **Totals:** 25 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -147,6 +147,21 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Godot plugin for making point-and-click adventure games, inspired by Adventure Game Studio and PowerQuest, with room, character, dialogue and inventory management.
 - **Category:** Godot plugin / Adventure games
 - **Creator:** Mateo Robayo Rodríguez
+
+### 🔹 [gndx-zsh-theme](https://github.com/gndx/gndx-zsh-theme)
+- **Description:** Theme for Oh My Zsh that customizes the appearance of the Zsh prompt.
+- **Category:** Zsh theme / Oh My Zsh
+- **Creator:** Oscar Barajas Tavares (gndx)
+
+### 🔹 [EV0 Astro Theme](https://github.com/gndx/ev0-astro-theme)
+- **Description:** Free and open-source serverless blog template built with Astro, Tailwind CSS and TypeScript for creating personal portfolios and showcasing projects.
+- **Category:** Astro / Blog template
+- **Creator:** Oscar Barajas Tavares (gndx)
+
+### 🔹 [LinkyTree](https://github.com/gndx/linkytree)
+- **Description:** Link-in-bio page template built with Astro and Tailwind CSS, configurable from a single data file.
+- **Category:** Astro / Link page template
+- **Creator:** Oscar Barajas Tavares (gndx)
 
 ---
 

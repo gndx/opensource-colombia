@@ -29,6 +29,7 @@ window.CATEGORIES = {
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
+    oscar: { name: "Oscar Barajas Tavares", github: "gndx", area: "Astro, JavaScript, DevTools" },
   };
 
   window.PROJECTS = [
@@ -273,6 +274,42 @@ window.CATEGORIES = {
         es: "Plugin de Godot para crear juegos de aventura gráfica point-and-click, inspirado en Adventure Game Studio y PowerQuest, con gestión de habitaciones, personajes, diálogos e inventario.",
         en: "Godot plugin for making point-and-click adventure games, inspired by Adventure Game Studio and PowerQuest, with room, character, dialogue and inventory management.",
         pt: "Plugin do Godot para criar jogos de aventura point-and-click, inspirado no Adventure Game Studio e PowerQuest, com gerenciamento de salas, personagens, diálogos e inventário.",
+      },
+    },
+    {
+      name: "gndx-zsh-theme",
+      url: "https://github.com/gndx/gndx-zsh-theme",
+      category: "extensions",
+      creator: C.oscar,
+      tags: ["Zsh", "Oh My Zsh"],
+      description: {
+        es: "Tema para Oh My Zsh que personaliza la apariencia del prompt de Zsh.",
+        en: "Theme for Oh My Zsh that customizes the appearance of the Zsh prompt.",
+        pt: "Tema para Oh My Zsh que personaliza a aparência do prompt do Zsh.",
+      },
+    },
+    {
+      name: "EV0 Astro Theme",
+      url: "https://github.com/gndx/ev0-astro-theme",
+      category: "extensions",
+      creator: C.oscar,
+      tags: ["Astro", "Tailwind CSS", "TypeScript"],
+      description: {
+        es: "Plantilla de blog serverless, gratuita y de código abierto, construida con Astro, Tailwind CSS y TypeScript para crear portafolios personales y mostrar proyectos.",
+        en: "Free and open-source serverless blog template built with Astro, Tailwind CSS and TypeScript for creating personal portfolios and showcasing projects.",
+        pt: "Template de blog serverless, gratuito e de código aberto, construído com Astro, Tailwind CSS e TypeScript para criar portfólios pessoais e apresentar projetos.",
+      },
+    },
+    {
+      name: "LinkyTree",
+      url: "https://github.com/gndx/linkytree",
+      category: "extensions",
+      creator: C.oscar,
+      tags: ["Astro", "Tailwind CSS", "Cloudflare"],
+      description: {
+        es: "Plantilla de página de enlaces en la biografía construida con Astro y Tailwind CSS, configurable desde un único archivo de datos.",
+        en: "Link-in-bio page template built with Astro and Tailwind CSS, configurable from a single data file.",
+        pt: "Template de página de links na bio construído com Astro e Tailwind CSS, configurável a partir de um único arquivo de dados.",
       },
     },
     {

@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 22 proyectos · 7 categorías
+> 📊 **Totales:** 25 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -147,6 +147,21 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Plugin de Godot para crear juegos de aventura gráfica point-and-click, inspirado en Adventure Game Studio y PowerQuest, con gestión de habitaciones, personajes, diálogos e inventario.
 - **Categoría:** Plugin de Godot / Aventuras gráficas
 - **Creador:** Mateo Robayo Rodríguez
+
+### 🔹 [gndx-zsh-theme](https://github.com/gndx/gndx-zsh-theme)
+- **Descripción:** Tema para Oh My Zsh que personaliza la apariencia del prompt de Zsh.
+- **Categoría:** Tema de Zsh / Oh My Zsh
+- **Creador:** Oscar Barajas Tavares (gndx)
+
+### 🔹 [EV0 Astro Theme](https://github.com/gndx/ev0-astro-theme)
+- **Descripción:** Plantilla de blog serverless, gratuita y de código abierto, construida con Astro, Tailwind CSS y TypeScript para crear portafolios personales y mostrar proyectos.
+- **Categoría:** Astro / Plantilla de blog
+- **Creador:** Oscar Barajas Tavares (gndx)
+
+### 🔹 [LinkyTree](https://github.com/gndx/linkytree)
+- **Descripción:** Plantilla de página de enlaces en la biografía construida con Astro y Tailwind CSS, configurable desde un único archivo de datos.
+- **Categoría:** Astro / Plantilla de enlaces
+- **Creador:** Oscar Barajas Tavares (gndx)
 
 ---
 
