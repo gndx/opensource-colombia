@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 28 proyectos · 7 categorías
+> 📊 **Totales:** 29 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -195,6 +195,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.
 - **Categoría:** Gestión Documental / Preservación Digital
 - **Creador:** Néstor Andrés Peña
+
+### 🔹 [Legal AI Skills Colombia](https://github.com/cadavidalvarado/legal-ai-skills-colombia)
+- **Descripción:** Colección de skills listos para usar con Claude, ChatGPT y otros LLMs, orientados a la práctica jurídica colombiana: análisis de contratos, redacción de tutelas y escritos judiciales, investigación normativa y comunicación con clientes.
+- **Categoría:** IA / Legal tech
+- **Creador:** Carlos Alvarado
 
 ---
 
