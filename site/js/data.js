@@ -35,6 +35,7 @@ window.CATEGORIES = {
     juanda: { name: "Juan David García Rincón", github: "JuandaGarcia", area: "UI, componentes web" },
     nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
     carlos: { name: "Carlos Alvarado", github: "cadavidalvarado", area: "IA, Legal tech" },
+    miguelcort: { name: "Miguel Cortes", github: "miguelcort", area: "IA, seguridad" },
   };
 
   window.PROJECTS = [
@@ -328,6 +329,18 @@ window.CATEGORIES = {
         es: "Proxy de privacidad para APIs de IA que detecta y enmascara datos personales (PII) antes de enviarlos a servicios como OpenAI, Anthropic o Gemini, restaurándolos de forma transparente en la respuesta.",
         en: "Privacy proxy for AI APIs that detects and masks personally identifiable information (PII) before it reaches services like OpenAI, Anthropic or Gemini, transparently restoring it in the response.",
         pt: "Proxy de privacidade para APIs de IA que detecta e mascara dados pessoais (PII) antes de enviá-los a serviços como OpenAI, Anthropic ou Gemini, restaurando-os de forma transparente na resposta.",
+      },
+    },
+    {
+      name: "Proxy-LLM",
+      url: "https://github.com/miguelcort/Proxy-LLM",
+      category: "extensions",
+      creator: C.miguelcort,
+      tags: ["Python", "FastAPI", "AI Security"],
+      description: {
+        es: "Middleware de seguridad para APIs de LLM que intercepta peticiones y respuestas para detectar inyección de prompts y jailbreaks, redactar datos personales (PII) y registrar incidentes, con soporte para múltiples proveedores (OpenAI, Anthropic, Gemini, Ollama).",
+        en: "Security middleware for LLM APIs that intercepts requests and responses to detect prompt injection and jailbreaks, redact personally identifiable information (PII), and log incidents, with support for multiple providers (OpenAI, Anthropic, Gemini, Ollama).",
+        pt: "Middleware de segurança para APIs de LLM que intercepta requisições e respostas para detectar injeção de prompts e jailbreaks, redigir dados pessoais (PII) e registrar incidentes, com suporte para múltiplos provedores (OpenAI, Anthropic, Gemini, Ollama).",
       },
     },
     {
