@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 30 projects · 7 categories
+> 📊 **Totals:** 33 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -81,7 +81,7 @@ There you can search projects, filter by category and discover Colombian open so
 
 ## 🛰️ APIs & Open Data
 
-### 🔹 [API-Colombia](https://github.com/miguel-teheran/colombia-api)
+### 🔹 [API-Colombia](https://github.com/mteheran/api-colombia)
 - **Description:** REST API that exposes public and tourist data of Colombia (departments, cities, typical dishes, parks).
 - **Category:** Open Data / Public API
 - **Creator:** Miguel Teheran
@@ -109,6 +109,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** HTTP client with promise support, designed to make consuming APIs from Unity easier.
 - **Category:** Game development / Unity
 - **Creator:** J.D. Nicholls (Proyecto26)
+
+### 🔹 [Midori](https://github.com/goastian/midori-desktop)
+- **Description:** A lightweight, fast, privacy-focused desktop web browser based on Firefox's Gecko engine. Includes a built-in ad and tracker blocker, a workspace manager, custom search engines, and email/contacts sync (CalDAV, CardDAV). Cross-platform (Windows, macOS, and Linux).
+- **Category:** Desktop browser
+- **Creator:** Alfonso Hernandez
 
 ---
 
@@ -177,6 +182,16 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Security middleware for LLM APIs that intercepts requests and responses to detect prompt injection and jailbreaks, redact personally identifiable information (PII), and log incidents, with support for multiple providers (OpenAI, Anthropic, Gemini, Ollama). Built with Python and FastAPI.
 - **Category:** AI security / Middleware
 - **Creator:** Miguel Cortes
+
+### 🔹 [Bug Bounty Lab 101](https://github.com/DevCop95/bugbounty-lab101)
+- **Description:** A bug bounty workspace and framework for security researchers, built around the real HackerOne workflow: choose a program, document scope, scan within boundaries, chain findings, and generate reports. Includes scope enforcement, an automated reconnaissance and vulnerability-scanning pipeline, report templates, and a local practice lab.
+- **Category:** Cybersecurity / Bug Bounty
+- **Creator:** Yared Henriquez
+
+### 🔹 [Famous Quote](https://github.com/ingegus/famous_quote)
+- **Description:** A Moodle block plugin (4.5+) that displays rotating quotes from an admin-managed library, ideal for dashboards. Admins can create, edit, enable, and delete quotes, and customize the block (title, Font Awesome icons, colors, and border radius).
+- **Category:** Moodle plugin
+- **Creator:** Gustavo Adolfo Rodríguez
 
 ---
 

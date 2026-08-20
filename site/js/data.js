@@ -36,6 +36,9 @@ window.CATEGORIES = {
     nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
     carlos: { name: "Carlos Alvarado", github: "cadavidalvarado", area: "IA, Legal tech" },
     miguelcort: { name: "Miguel Cortes", github: "miguelcort", area: "IA, seguridad" },
+    yared: { name: "Yared Henriquez", github: "DevCop95", area: "Ciberseguridad, bug bounty" },
+    gustavo: { name: "Gustavo Adolfo Rodríguez", github: "ingegus", area: "Moodle, PHP" },
+    alfonso: { name: "Alfonso Hernandez", github: "ponchale", area: "Navegadores, escritorio" },
   };
 
   window.PROJECTS = [
@@ -140,7 +143,7 @@ window.CATEGORIES = {
     },
     {
       name: "API-Colombia",
-      url: "https://github.com/miguel-teheran/colombia-api",
+      url: "https://github.com/mteheran/api-colombia",
       category: "apis",
       creator: C.miguel,
       tags: ["REST", "Open Data"],
@@ -197,6 +200,18 @@ window.CATEGORIES = {
         es: "Cliente HTTP con soporte para promesas, diseñado para facilitar el consumo de APIs desde Unity.",
         en: "HTTP client with promise support, designed to make consuming APIs from Unity easier.",
         pt: "Cliente HTTP com suporte a promises, projetado para facilitar o consumo de APIs a partir do Unity.",
+      },
+    },
+    {
+      name: "Midori",
+      url: "https://github.com/goastian/midori-desktop",
+      category: "mobile",
+      creator: C.alfonso,
+      tags: ["Browser", "Privacy", "Gecko"],
+      description: {
+        es: "Navegador de escritorio ligero, rápido y enfocado en la privacidad, basado en el motor Gecko de Firefox. Incluye bloqueador de anuncios y rastreadores, gestor de espacios de trabajo, motores de búsqueda personalizados y sincronización de correo/contactos (CalDAV, CardDAV). Multiplataforma (Windows, macOS y Linux).",
+        en: "A lightweight, fast, privacy-focused desktop web browser based on Firefox's Gecko engine. Includes a built-in ad and tracker blocker, a workspace manager, custom search engines, and email/contacts sync (CalDAV, CardDAV). Cross-platform (Windows, macOS, and Linux).",
+        pt: "Um navegador de desktop leve, rápido e focado em privacidade, baseado no motor Gecko do Firefox. Inclui bloqueador de anúncios e rastreadores, gerenciador de espaços de trabalho, mecanismos de busca personalizados e sincronização de e-mail/contatos (CalDAV, CardDAV). Multiplataforma (Windows, macOS e Linux).",
       },
     },
     {
@@ -341,6 +356,30 @@ window.CATEGORIES = {
         es: "Middleware de seguridad para APIs de LLM que intercepta peticiones y respuestas para detectar inyección de prompts y jailbreaks, redactar datos personales (PII) y registrar incidentes, con soporte para múltiples proveedores (OpenAI, Anthropic, Gemini, Ollama).",
         en: "Security middleware for LLM APIs that intercepts requests and responses to detect prompt injection and jailbreaks, redact personally identifiable information (PII), and log incidents, with support for multiple providers (OpenAI, Anthropic, Gemini, Ollama).",
         pt: "Middleware de segurança para APIs de LLM que intercepta requisições e respostas para detectar injeção de prompts e jailbreaks, redigir dados pessoais (PII) e registrar incidentes, com suporte para múltiplos provedores (OpenAI, Anthropic, Gemini, Ollama).",
+      },
+    },
+    {
+      name: "Bug Bounty Lab 101",
+      url: "https://github.com/DevCop95/bugbounty-lab101",
+      category: "extensions",
+      creator: C.yared,
+      tags: ["Security", "Bug Bounty", "HackerOne"],
+      description: {
+        es: "Workspace y framework de bug bounty para investigadores de seguridad, construido en torno al flujo real en HackerOne: seleccionar programa, documentar el alcance, escanear dentro de los límites, encadenar hallazgos y generar reportes. Incluye control de alcance, un pipeline automatizado de reconocimiento y análisis de vulnerabilidades, plantillas de reporte y un laboratorio local de práctica.",
+        en: "A bug bounty workspace and framework for security researchers, built around the real HackerOne workflow: choose a program, document scope, scan within boundaries, chain findings, and generate reports. Includes scope enforcement, an automated reconnaissance and vulnerability-scanning pipeline, report templates, and a local practice lab.",
+        pt: "Um workspace e framework de bug bounty para pesquisadores de segurança, construído em torno do fluxo real do HackerOne: escolher um programa, documentar o escopo, escanear dentro dos limites, encadear descobertas e gerar relatórios. Inclui controle de escopo, um pipeline automatizado de reconhecimento e análise de vulnerabilidades, modelos de relatório e um laboratório local de prática.",
+      },
+    },
+    {
+      name: "Famous Quote",
+      url: "https://github.com/ingegus/famous_quote",
+      category: "extensions",
+      creator: C.gustavo,
+      tags: ["Moodle", "PHP", "Plugin"],
+      description: {
+        es: "Plugin de bloque para Moodle (4.5+) que muestra frases rotativas desde una biblioteca gestionada por el administrador, ideal para dashboards. Permite crear, editar, activar y eliminar frases, y personalizar el bloque (título, íconos Font Awesome, colores y bordes).",
+        en: "A Moodle block plugin (4.5+) that displays rotating quotes from an admin-managed library, ideal for dashboards. Admins can create, edit, enable, and delete quotes, and customize the block (title, Font Awesome icons, colors, and border radius).",
+        pt: "Um plugin de bloco para Moodle (4.5+) que exibe frases rotativas a partir de uma biblioteca gerenciada pelo administrador, ideal para dashboards. Permite criar, editar, ativar e excluir frases, e personalizar o bloco (título, ícones Font Awesome, cores e bordas).",
       },
     },
     {
