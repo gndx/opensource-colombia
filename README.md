@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 30 proyectos · 7 categorías
+> 📊 **Totales:** 33 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -81,7 +81,7 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 
 ## 🛰️ APIs y Datos Abiertos
 
-### 🔹 [API-Colombia](https://github.com/miguel-teheran/colombia-api)
+### 🔹 [API-Colombia](https://github.com/mteheran/api-colombia)
 - **Descripción:** API REST que expone datos públicos y turísticos de Colombia (departamentos, ciudades, platos típicos, parques).
 - **Categoría:** Open Data / API pública
 - **Creador:** Miguel Teheran
@@ -109,6 +109,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Cliente HTTP con soporte para promesas, diseñado para facilitar el consumo de APIs desde Unity.
 - **Categoría:** Desarrollo de videojuegos / Unity
 - **Creador:** J.D. Nicholls (Proyecto26)
+
+### 🔹 [Midori](https://github.com/goastian/midori-desktop)
+- **Descripción:** Navegador de escritorio ligero, rápido y enfocado en la privacidad, basado en el motor Gecko de Firefox. Incluye bloqueador de anuncios y rastreadores, gestor de espacios de trabajo, motores de búsqueda personalizados y sincronización de correo/contactos (CalDAV, CardDAV). Multiplataforma (Windows, macOS y Linux).
+- **Categoría:** Navegador de escritorio
+- **Creador:** Alfonso Hernandez
 
 ---
 
@@ -177,6 +182,16 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Middleware de seguridad para APIs de LLM que intercepta peticiones y respuestas para detectar inyección de prompts y jailbreaks, redactar datos personales (PII) y registrar incidentes, con soporte para múltiples proveedores (OpenAI, Anthropic, Gemini, Ollama). Construido con Python y FastAPI.
 - **Categoría:** Seguridad para IA / Middleware
 - **Creador:** Miguel Cortes
+
+### 🔹 [Bug Bounty Lab 101](https://github.com/DevCop95/bugbounty-lab101)
+- **Descripción:** Workspace y framework de bug bounty para investigadores de seguridad, construido en torno al flujo real en HackerOne: seleccionar programa, documentar el alcance, escanear dentro de los límites, encadenar hallazgos y generar reportes. Incluye control de alcance, un pipeline automatizado de reconocimiento y análisis de vulnerabilidades, plantillas de reporte y un laboratorio local de práctica.
+- **Categoría:** Ciberseguridad / Bug Bounty
+- **Creador:** Yared Henriquez
+
+### 🔹 [Famous Quote](https://github.com/ingegus/famous_quote)
+- **Descripción:** Plugin de bloque para Moodle (4.5+) que muestra frases rotativas desde una biblioteca gestionada por el administrador, ideal para dashboards. Permite crear, editar, activar y eliminar frases, y personalizar el bloque (título, íconos Font Awesome, colores y bordes).
+- **Categoría:** Plugin de Moodle
+- **Creador:** Gustavo Adolfo Rodríguez
 
 ---
 
