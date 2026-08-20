@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 28 projects · 7 categories
+> 📊 **Totals:** 29 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -195,6 +195,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.
 - **Category:** Document Management / Digital Preservation
 - **Creator:** Néstor Andrés Peña
+
+### 🔹 [Legal AI Skills Colombia](https://github.com/cadavidalvarado/legal-ai-skills-colombia)
+- **Description:** Collection of ready-to-use skills for Claude, ChatGPT and other LLMs, tailored to Colombian legal practice: contract analysis, drafting of tutelas and judicial documents, legal research and client communication.
+- **Category:** AI / Legal tech
+- **Creator:** Carlos Alvarado
 
 ---
 

@@ -34,6 +34,7 @@ window.CATEGORIES = {
     cristian: { name: "Cristian García", github: "cgarciae", area: "JAX, deep learning" },
     juanda: { name: "Juan David García Rincón", github: "JuandaGarcia", area: "UI, componentes web" },
     nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
+    carlos: { name: "Carlos Alvarado", github: "cadavidalvarado", area: "IA, Legal tech" },
   };
 
   window.PROJECTS = [
@@ -375,6 +376,18 @@ window.CATEGORIES = {
         es: "Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.",
         en: "Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.",
         pt: "Plataforma open source e versátil de gestão de documentos para organizar, preservar e explorar arquivos digitais usando estruturas de metadados adaptáveis.",
+      },
+    },
+    {
+      name: "Legal AI Skills Colombia",
+      url: "https://github.com/cadavidalvarado/legal-ai-skills-colombia",
+      category: "recursos",
+      creator: C.carlos,
+      tags: ["IA", "LLMs", "Legal"],
+      description: {
+        es: "Colección de skills listos para usar con Claude, ChatGPT y otros LLMs, orientados a la práctica jurídica colombiana: análisis de contratos, redacción de tutelas y escritos judiciales, investigación normativa y comunicación con clientes.",
+        en: "Collection of ready-to-use skills for Claude, ChatGPT and other LLMs, tailored to Colombian legal practice: contract analysis, drafting of tutelas and judicial documents, legal research and client communication.",
+        pt: "Coleção de skills prontos para usar com Claude, ChatGPT e outros LLMs, voltados à prática jurídica colombiana: análise de contratos, redação de tutelas e petições judiciais, pesquisa normativa e comunicação com clientes.",
       },
     },
   ];
