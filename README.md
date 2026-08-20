@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 25 proyectos · 7 categorías
+> 📊 **Totales:** 36 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -62,11 +62,26 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Categoría:** Librería de íconos / UI
 - **Creador:** Miguel Teheran
 
+### 🔹 [Kiji Inspector](https://github.com/dataiku/kiji-inspector)
+- **Descripción:** Paquete de Python para interpretabilidad mecanicista de agentes de IA: entrena autoencoders dispersos (SAE) sobre las activaciones internas de un modelo para explicar por qué elige una herramienta u otra.
+- **Categoría:** Interpretabilidad de IA / Machine Learning
+- **Creador:** David Cardozo
+
+### 🔹 [Flax NNX](https://github.com/google/flax)
+- **Descripción:** API de Flax (biblioteca de redes neuronales para JAX de Google) que usa clases de Python estándar y manejo de estado explícito para hacer la definición y el entrenamiento de modelos más simple e intuitivo.
+- **Categoría:** Framework de deep learning
+- **Creador:** Cristian García
+
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Descripción:** Componente de tarjeta de crédito y débito para formularios de pago y vistas de tarjetas guardadas, con detección de marca en vivo, giro 3D y temas por variables CSS. Sin dependencias, para React, Vue, Svelte y JavaScript puro en un solo paquete.
+- **Categoría:** Componentes de UI / formularios de pago
+- **Creador:** Juan David García Rincón
+
 ---
 
 ## 🛰️ APIs y Datos Abiertos
 
-### 🔹 [API-Colombia](https://github.com/miguel-teheran/colombia-api)
+### 🔹 [API-Colombia](https://github.com/mteheran/api-colombia)
 - **Descripción:** API REST que expone datos públicos y turísticos de Colombia (departamentos, ciudades, platos típicos, parques).
 - **Categoría:** Open Data / API pública
 - **Creador:** Miguel Teheran
@@ -75,6 +90,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Proyecto de scraping y análisis de datos sobre el mercado de apartamentos en Bogotá.
 - **Categoría:** Ciencia de datos / Visualización / Open Data
 - **Creador:** Comunidad Builker-Col
+
+### 🔹 [BibleQL](https://github.com/lporras/bibleql)
+- **Descripción:** API GraphQL pública de la Biblia con más de 40 traducciones y clientes nativos para Node.js y Ruby.
+- **Categoría:** API pública / GraphQL
+- **Creador:** Luis Porras
 
 ---
 
@@ -89,6 +109,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Cliente HTTP con soporte para promesas, diseñado para facilitar el consumo de APIs desde Unity.
 - **Categoría:** Desarrollo de videojuegos / Unity
 - **Creador:** J.D. Nicholls (Proyecto26)
+
+### 🔹 [Midori](https://github.com/goastian/midori-desktop)
+- **Descripción:** Navegador de escritorio ligero, rápido y enfocado en la privacidad, basado en el motor Gecko de Firefox. Incluye bloqueador de anuncios y rastreadores, gestor de espacios de trabajo, motores de búsqueda personalizados y sincronización de correo/contactos (CalDAV, CardDAV). Multiplataforma (Windows, macOS y Linux).
+- **Categoría:** Navegador de escritorio
+- **Creador:** Alfonso Hernandez
 
 ---
 
@@ -148,6 +173,26 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Categoría:** Plugin de Godot / Aventuras gráficas
 - **Creador:** Mateo Robayo Rodríguez
 
+### 🔹 [Kiji Proxy](https://github.com/dataiku/kiji-proxy)
+- **Descripción:** Proxy de privacidad para APIs de IA que detecta y enmascara datos personales (PII) antes de enviarlos a servicios como OpenAI, Anthropic o Gemini, restaurándolos de forma transparente en la respuesta.
+- **Categoría:** Privacidad / Seguridad para IA
+- **Creador:** David Cardozo
+
+### 🔹 [Proxy-LLM](https://github.com/miguelcort/Proxy-LLM)
+- **Descripción:** Middleware de seguridad para APIs de LLM que intercepta peticiones y respuestas para detectar inyección de prompts y jailbreaks, redactar datos personales (PII) y registrar incidentes, con soporte para múltiples proveedores (OpenAI, Anthropic, Gemini, Ollama). Construido con Python y FastAPI.
+- **Categoría:** Seguridad para IA / Middleware
+- **Creador:** Miguel Cortes
+
+### 🔹 [Bug Bounty Lab 101](https://github.com/DevCop95/bugbounty-lab101)
+- **Descripción:** Workspace y framework de bug bounty para investigadores de seguridad, construido en torno al flujo real en HackerOne: seleccionar programa, documentar el alcance, escanear dentro de los límites, encadenar hallazgos y generar reportes. Incluye control de alcance, un pipeline automatizado de reconocimiento y análisis de vulnerabilidades, plantillas de reporte y un laboratorio local de práctica.
+- **Categoría:** Ciberseguridad / Bug Bounty
+- **Creador:** Yared Henriquez
+
+### 🔹 [Famous Quote](https://github.com/ingegus/famous_quote)
+- **Descripción:** Plugin de bloque para Moodle (4.5+) que muestra frases rotativas desde una biblioteca gestionada por el administrador, ideal para dashboards. Permite crear, editar, activar y eliminar frases, y personalizar el bloque (título, íconos Font Awesome, colores y bordes).
+- **Categoría:** Plugin de Moodle
+- **Creador:** Gustavo Adolfo Rodríguez
+
 ### 🔹 [gndx-zsh-theme](https://github.com/gndx/gndx-zsh-theme)
 - **Descripción:** Tema para Oh My Zsh que personaliza la apariencia del prompt de Zsh.
 - **Categoría:** Tema de Zsh / Oh My Zsh
@@ -180,6 +225,16 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Archivo GeoJSON con los límites geográficos de los departamentos de Colombia, listo para usar en mapas y visualizaciones con D3.js, Power BI, Metabase y otras herramientas.
 - **Categoría:** Datos geográficos / GeoJSON
 - **Creador:** John Guerra
+
+### 🔹 [ArchiHUB](https://github.com/Archihub-App)
+- **Descripción:** Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.
+- **Categoría:** Gestión Documental / Preservación Digital
+- **Creador:** Néstor Andrés Peña
+
+### 🔹 [Legal AI Skills Colombia](https://github.com/cadavidalvarado/legal-ai-skills-colombia)
+- **Descripción:** Colección de skills listos para usar con Claude, ChatGPT y otros LLMs, orientados a la práctica jurídica colombiana: análisis de contratos, redacción de tutelas y escritos judiciales, investigación normativa y comunicación con clientes.
+- **Categoría:** IA / Legal tech
+- **Creador:** Carlos Alvarado
 
 ---
 

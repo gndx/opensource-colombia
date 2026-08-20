@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 25 projects · 7 categories
+> 📊 **Totals:** 36 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -62,11 +62,26 @@ There you can search projects, filter by category and discover Colombian open so
 - **Category:** Icon library / UI
 - **Creator:** Miguel Teheran
 
+### 🔹 [Kiji Inspector](https://github.com/dataiku/kiji-inspector)
+- **Description:** Python package for mechanistic interpretability of AI agents: trains sparse autoencoders (SAEs) on a model's internal activations to explain why it selects one tool over another.
+- **Category:** AI interpretability / Machine learning
+- **Creator:** David Cardozo
+
+### 🔹 [Flax NNX](https://github.com/google/flax)
+- **Description:** API of Flax (Google's neural network library for JAX) that uses standard Python classes and explicit state handling to make defining and training models simpler and more intuitive.
+- **Category:** Deep learning framework
+- **Creator:** Cristian García
+
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Description:** Credit and debit card component for payment forms and saved-card views, with live brand detection, a 3D flip and CSS-variable theming. Dependency-free, for React, Vue, Svelte and vanilla JavaScript in a single package.
+- **Category:** UI components / payment forms
+- **Creator:** Juan David García Rincón
+
 ---
 
 ## 🛰️ APIs & Open Data
 
-### 🔹 [API-Colombia](https://github.com/miguel-teheran/colombia-api)
+### 🔹 [API-Colombia](https://github.com/mteheran/api-colombia)
 - **Description:** REST API that exposes public and tourist data of Colombia (departments, cities, typical dishes, parks).
 - **Category:** Open Data / Public API
 - **Creator:** Miguel Teheran
@@ -75,6 +90,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Scraping and data analysis project about the apartment market in Bogotá.
 - **Category:** Data science / Visualization / Open Data
 - **Creator:** Builker-Col Community
+
+### 🔹 [BibleQL](https://github.com/lporras/bibleql)
+- **Description:** Public GraphQL API for the Bible with more than 40 translations and native clients for Node.js and Ruby.
+- **Category:** Public API / GraphQL
+- **Creator:** Luis Porras
 
 ---
 
@@ -89,6 +109,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** HTTP client with promise support, designed to make consuming APIs from Unity easier.
 - **Category:** Game development / Unity
 - **Creator:** J.D. Nicholls (Proyecto26)
+
+### 🔹 [Midori](https://github.com/goastian/midori-desktop)
+- **Description:** A lightweight, fast, privacy-focused desktop web browser based on Firefox's Gecko engine. Includes a built-in ad and tracker blocker, a workspace manager, custom search engines, and email/contacts sync (CalDAV, CardDAV). Cross-platform (Windows, macOS, and Linux).
+- **Category:** Desktop browser
+- **Creator:** Alfonso Hernandez
 
 ---
 
@@ -148,6 +173,26 @@ There you can search projects, filter by category and discover Colombian open so
 - **Category:** Godot plugin / Adventure games
 - **Creator:** Mateo Robayo Rodríguez
 
+### 🔹 [Kiji Proxy](https://github.com/dataiku/kiji-proxy)
+- **Description:** Privacy proxy for AI APIs that detects and masks personally identifiable information (PII) before it reaches services like OpenAI, Anthropic or Gemini, transparently restoring it in the response.
+- **Category:** AI privacy / Security
+- **Creator:** David Cardozo
+
+### 🔹 [Proxy-LLM](https://github.com/miguelcort/Proxy-LLM)
+- **Description:** Security middleware for LLM APIs that intercepts requests and responses to detect prompt injection and jailbreaks, redact personally identifiable information (PII), and log incidents, with support for multiple providers (OpenAI, Anthropic, Gemini, Ollama). Built with Python and FastAPI.
+- **Category:** AI security / Middleware
+- **Creator:** Miguel Cortes
+
+### 🔹 [Bug Bounty Lab 101](https://github.com/DevCop95/bugbounty-lab101)
+- **Description:** A bug bounty workspace and framework for security researchers, built around the real HackerOne workflow: choose a program, document scope, scan within boundaries, chain findings, and generate reports. Includes scope enforcement, an automated reconnaissance and vulnerability-scanning pipeline, report templates, and a local practice lab.
+- **Category:** Cybersecurity / Bug Bounty
+- **Creator:** Yared Henriquez
+
+### 🔹 [Famous Quote](https://github.com/ingegus/famous_quote)
+- **Description:** A Moodle block plugin (4.5+) that displays rotating quotes from an admin-managed library, ideal for dashboards. Admins can create, edit, enable, and delete quotes, and customize the block (title, Font Awesome icons, colors, and border radius).
+- **Category:** Moodle plugin
+- **Creator:** Gustavo Adolfo Rodríguez
+
 ### 🔹 [gndx-zsh-theme](https://github.com/gndx/gndx-zsh-theme)
 - **Description:** Theme for Oh My Zsh that customizes the appearance of the Zsh prompt.
 - **Category:** Zsh theme / Oh My Zsh
@@ -180,6 +225,16 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** GeoJSON file with the geographic boundaries of Colombia's departments, ready to use in maps and visualizations with D3.js, Power BI, Metabase and other tools.
 - **Category:** Geographic data / GeoJSON
 - **Creator:** John Guerra
+
+### 🔹 [ArchiHUB](https://github.com/Archihub-App)
+- **Description:** Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.
+- **Category:** Document Management / Digital Preservation
+- **Creator:** Néstor Andrés Peña
+
+### 🔹 [Legal AI Skills Colombia](https://github.com/cadavidalvarado/legal-ai-skills-colombia)
+- **Description:** Collection of ready-to-use skills for Claude, ChatGPT and other LLMs, tailored to Colombian legal practice: contract analysis, drafting of tutelas and judicial documents, legal research and client communication.
+- **Category:** AI / Legal tech
+- **Creator:** Carlos Alvarado
 
 ---
 
