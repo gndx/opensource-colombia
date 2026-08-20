@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 29 proyectos · 7 categorías
+> 📊 **Totales:** 30 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -172,6 +172,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Proxy de privacidad para APIs de IA que detecta y enmascara datos personales (PII) antes de enviarlos a servicios como OpenAI, Anthropic o Gemini, restaurándolos de forma transparente en la respuesta.
 - **Categoría:** Privacidad / Seguridad para IA
 - **Creador:** David Cardozo
+
+### 🔹 [Proxy-LLM](https://github.com/miguelcort/Proxy-LLM)
+- **Descripción:** Middleware de seguridad para APIs de LLM que intercepta peticiones y respuestas para detectar inyección de prompts y jailbreaks, redactar datos personales (PII) y registrar incidentes, con soporte para múltiples proveedores (OpenAI, Anthropic, Gemini, Ollama). Construido con Python y FastAPI.
+- **Categoría:** Seguridad para IA / Middleware
+- **Creador:** Miguel Cortes
 
 ---
 

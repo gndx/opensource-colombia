@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totals:** 29 projects · 7 categories
+> 📊 **Totals:** 30 projects · 7 categories
 
 A showcase of Colombian talent in technology, programming and open data. All projects are:
 
@@ -172,6 +172,11 @@ There you can search projects, filter by category and discover Colombian open so
 - **Description:** Privacy proxy for AI APIs that detects and masks personally identifiable information (PII) before it reaches services like OpenAI, Anthropic or Gemini, transparently restoring it in the response.
 - **Category:** AI privacy / Security
 - **Creator:** David Cardozo
+
+### 🔹 [Proxy-LLM](https://github.com/miguelcort/Proxy-LLM)
+- **Description:** Security middleware for LLM APIs that intercepts requests and responses to detect prompt injection and jailbreaks, redact personally identifiable information (PII), and log incidents, with support for multiple providers (OpenAI, Anthropic, Gemini, Ollama). Built with Python and FastAPI.
+- **Category:** AI security / Middleware
+- **Creator:** Miguel Cortes
 
 ---
 
