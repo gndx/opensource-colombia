@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 27 proyectos · 7 categorías
+> 📊 **Totales:** 28 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -90,6 +90,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Proyecto de scraping y análisis de datos sobre el mercado de apartamentos en Bogotá.
 - **Categoría:** Ciencia de datos / Visualización / Open Data
 - **Creador:** Comunidad Builker-Col
+
+### 🔹 [BibleQL](https://github.com/lporras/bibleql)
+- **Descripción:** API GraphQL pública de la Biblia con más de 40 traducciones y clientes nativos para Node.js y Ruby.
+- **Categoría:** API pública / GraphQL
+- **Creador:** Luis Porras
 
 ---
 

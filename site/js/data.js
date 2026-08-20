@@ -29,6 +29,7 @@ window.CATEGORIES = {
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
+    luis: { name: "Luis Porras", github: "lporras", area: "GraphQL, APIs" },
     david: { name: "David Cardozo", github: "Davidnet", area: "IA, privacidad, interpretabilidad" },
     cristian: { name: "Cristian García", github: "cgarciae", area: "JAX, deep learning" },
     juanda: { name: "Juan David García Rincón", github: "JuandaGarcia", area: "UI, componentes web" },
@@ -158,6 +159,18 @@ window.CATEGORIES = {
         es: "Proyecto de scraping y análisis de datos sobre el mercado de apartamentos en Bogotá.",
         en: "Scraping and data analysis project about the apartment market in Bogotá.",
         pt: "Projeto de scraping e análise de dados sobre o mercado de apartamentos em Bogotá.",
+      },
+    },
+    {
+      name: "BibleQL",
+      url: "https://github.com/lporras/bibleql",
+      category: "apis",
+      creator: C.luis,
+      tags: ["GraphQL", "Node.js", "Ruby"],
+      description: {
+        es: "API GraphQL pública de la Biblia con más de 40 traducciones y clientes nativos para Node.js y Ruby.",
+        en: "Public GraphQL API for the Bible with more than 40 translations and native clients for Node.js and Ruby.",
+        pt: "API GraphQL pública da Bíblia com mais de 40 traduções e clientes nativos para Node.js e Ruby.",
       },
     },
     {
