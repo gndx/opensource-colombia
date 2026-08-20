@@ -29,6 +29,8 @@ window.CATEGORIES = {
     john: { name: "John Guerra", github: "john-guerra", area: "Datos geográficos" },
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
+    david: { name: "David Cardozo", github: "Davidnet", area: "IA, privacidad, interpretabilidad" },
+    cristian: { name: "Cristian García", github: "cgarciae", area: "JAX, deep learning" },
     juanda: { name: "Juan David García Rincón", github: "JuandaGarcia", area: "UI, componentes web" },
     nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
   };
@@ -106,6 +108,31 @@ window.CATEGORIES = {
         es: "Librería de íconos SVG de estilo lineal inspirados en la cultura, naturaleza y tradiciones de Colombia, disponible para React, Angular y Blazor.",
         en: "Line-style SVG icon library inspired by Colombian culture, nature and traditions, available for React, Angular and Blazor.",
         pt: "Biblioteca de ícones SVG de estilo linear inspirados na cultura, natureza e tradições da Colômbia, disponível para React, Angular e Blazor.",
+      },
+    },
+    {
+      name: "Kiji Inspector",
+      url: "https://github.com/dataiku/kiji-inspector",
+      category: "libraries",
+      creator: C.david,
+      tags: ["Python", "AI", "Interpretability"],
+      description: {
+        es: "Paquete de Python para interpretabilidad mecanicista de agentes de IA: entrena autoencoders dispersos (SAE) sobre las activaciones internas de un modelo para explicar por qué elige una herramienta u otra.",
+        en: "Python package for mechanistic interpretability of AI agents: trains sparse autoencoders (SAEs) on a model's internal activations to explain why it selects one tool over another.",
+        pt: "Pacote Python para interpretabilidade mecanicista de agentes de IA: treina autoencoders esparsos (SAE) sobre as ativações internas de um modelo para explicar por que ele escolhe uma ferramenta em vez de outra.",
+      },
+    },
+    {
+      name: "Flax NNX",
+      url: "https://github.com/google/flax",
+      category: "libraries",
+      creator: C.cristian,
+      tags: ["JAX", "Deep Learning", "Python"],
+      featured: true,
+      description: {
+        es: "API de Flax (biblioteca de redes neuronales para JAX de Google) que usa clases de Python estándar y manejo de estado explícito para hacer la definición y el entrenamiento de modelos más simple e intuitivo.",
+        en: "API of Flax (Google's neural network library for JAX) that uses standard Python classes and explicit state handling to make defining and training models simpler and more intuitive.",
+        pt: "API do Flax (biblioteca de redes neurais para JAX do Google) que usa classes Python padrão e gerenciamento explícito de estado para tornar a definição e o treinamento de modelos mais simples e intuitivos.",
       },
     },
     {
@@ -275,6 +302,18 @@ window.CATEGORIES = {
         es: "Plugin de Godot para crear juegos de aventura gráfica point-and-click, inspirado en Adventure Game Studio y PowerQuest, con gestión de habitaciones, personajes, diálogos e inventario.",
         en: "Godot plugin for making point-and-click adventure games, inspired by Adventure Game Studio and PowerQuest, with room, character, dialogue and inventory management.",
         pt: "Plugin do Godot para criar jogos de aventura point-and-click, inspirado no Adventure Game Studio e PowerQuest, com gerenciamento de salas, personagens, diálogos e inventário.",
+      },
+    },
+    {
+      name: "Kiji Proxy",
+      url: "https://github.com/dataiku/kiji-proxy",
+      category: "extensions",
+      creator: C.david,
+      tags: ["Go", "Privacy", "AI Security"],
+      description: {
+        es: "Proxy de privacidad para APIs de IA que detecta y enmascara datos personales (PII) antes de enviarlos a servicios como OpenAI, Anthropic o Gemini, restaurándolos de forma transparente en la respuesta.",
+        en: "Privacy proxy for AI APIs that detects and masks personally identifiable information (PII) before it reaches services like OpenAI, Anthropic or Gemini, transparently restoring it in the response.",
+        pt: "Proxy de privacidade para APIs de IA que detecta e mascara dados pessoais (PII) antes de enviá-los a serviços como OpenAI, Anthropic ou Gemini, restaurando-os de forma transparente na resposta.",
       },
     },
     {
