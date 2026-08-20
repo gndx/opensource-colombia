@@ -9,7 +9,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Mteheran/opensource-colombia?color=ee8449&style=flat-square)](#-contribuidores)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 📊 **Totales:** 23 proyectos · 7 categorías
+> 📊 **Totales:** 28 proyectos · 7 categorías
 
 Una muestra del talento colombiano en tecnología, programación y datos abiertos. Todos los proyectos son:
 
@@ -61,6 +61,21 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Librería de íconos SVG de estilo lineal (outline) inspirados en la cultura, naturaleza y tradiciones de Colombia, disponible para React, Angular y Blazor.
 - **Categoría:** Librería de íconos / UI
 - **Creador:** Miguel Teheran
+
+### 🔹 [Kiji Inspector](https://github.com/dataiku/kiji-inspector)
+- **Descripción:** Paquete de Python para interpretabilidad mecanicista de agentes de IA: entrena autoencoders dispersos (SAE) sobre las activaciones internas de un modelo para explicar por qué elige una herramienta u otra.
+- **Categoría:** Interpretabilidad de IA / Machine Learning
+- **Creador:** David Cardozo
+
+### 🔹 [Flax NNX](https://github.com/google/flax)
+- **Descripción:** API de Flax (biblioteca de redes neuronales para JAX de Google) que usa clases de Python estándar y manejo de estado explícito para hacer la definición y el entrenamiento de modelos más simple e intuitivo.
+- **Categoría:** Framework de deep learning
+- **Creador:** Cristian García
+
+### 🔹 [crd-ui](https://github.com/JuandaGarcia/crd-ui)
+- **Descripción:** Componente de tarjeta de crédito y débito para formularios de pago y vistas de tarjetas guardadas, con detección de marca en vivo, giro 3D y temas por variables CSS. Sin dependencias, para React, Vue, Svelte y JavaScript puro en un solo paquete.
+- **Categoría:** Componentes de UI / formularios de pago
+- **Creador:** Juan David García Rincón
 
 ---
 
@@ -153,6 +168,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Categoría:** Plugin de Godot / Aventuras gráficas
 - **Creador:** Mateo Robayo Rodríguez
 
+### 🔹 [Kiji Proxy](https://github.com/dataiku/kiji-proxy)
+- **Descripción:** Proxy de privacidad para APIs de IA que detecta y enmascara datos personales (PII) antes de enviarlos a servicios como OpenAI, Anthropic o Gemini, restaurándolos de forma transparente en la respuesta.
+- **Categoría:** Privacidad / Seguridad para IA
+- **Creador:** David Cardozo
+
 ---
 
 ## ☁️ Servicios y Proveedores
@@ -170,6 +190,11 @@ Allí puedes buscar proyectos, filtrar por categoría y descubrir el talento col
 - **Descripción:** Archivo GeoJSON con los límites geográficos de los departamentos de Colombia, listo para usar en mapas y visualizaciones con D3.js, Power BI, Metabase y otras herramientas.
 - **Categoría:** Datos geográficos / GeoJSON
 - **Creador:** John Guerra
+
+### 🔹 [ArchiHUB](https://github.com/Archihub-App)
+- **Descripción:** Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.
+- **Categoría:** Gestión Documental / Preservación Digital
+- **Creador:** Néstor Andrés Peña
 
 ---
 

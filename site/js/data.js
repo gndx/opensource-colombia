@@ -30,6 +30,10 @@ window.CATEGORIES = {
     julian: { name: "Julian Dario Luna Patiño", github: "Kaddo-kdd", area: "IA, CLI, DevTools" },
     mateo: { name: "Mateo Robayo Rodríguez", github: "carenalgas", area: "Godot, videojuegos" },
     luis: { name: "Luis Porras", github: "lporras", area: "GraphQL, APIs" },
+    david: { name: "David Cardozo", github: "Davidnet", area: "IA, privacidad, interpretabilidad" },
+    cristian: { name: "Cristian García", github: "cgarciae", area: "JAX, deep learning" },
+    juanda: { name: "Juan David García Rincón", github: "JuandaGarcia", area: "UI, componentes web" },
+    nestor: { name: "Néstor Andrés Peña", github: "nestorandrespe", area: "Archivos, Datos" },
   };
 
   window.PROJECTS = [
@@ -105,6 +109,31 @@ window.CATEGORIES = {
         es: "Librería de íconos SVG de estilo lineal inspirados en la cultura, naturaleza y tradiciones de Colombia, disponible para React, Angular y Blazor.",
         en: "Line-style SVG icon library inspired by Colombian culture, nature and traditions, available for React, Angular and Blazor.",
         pt: "Biblioteca de ícones SVG de estilo linear inspirados na cultura, natureza e tradições da Colômbia, disponível para React, Angular e Blazor.",
+      },
+    },
+    {
+      name: "Kiji Inspector",
+      url: "https://github.com/dataiku/kiji-inspector",
+      category: "libraries",
+      creator: C.david,
+      tags: ["Python", "AI", "Interpretability"],
+      description: {
+        es: "Paquete de Python para interpretabilidad mecanicista de agentes de IA: entrena autoencoders dispersos (SAE) sobre las activaciones internas de un modelo para explicar por qué elige una herramienta u otra.",
+        en: "Python package for mechanistic interpretability of AI agents: trains sparse autoencoders (SAEs) on a model's internal activations to explain why it selects one tool over another.",
+        pt: "Pacote Python para interpretabilidade mecanicista de agentes de IA: treina autoencoders esparsos (SAE) sobre as ativações internas de um modelo para explicar por que ele escolhe uma ferramenta em vez de outra.",
+      },
+    },
+    {
+      name: "Flax NNX",
+      url: "https://github.com/google/flax",
+      category: "libraries",
+      creator: C.cristian,
+      tags: ["JAX", "Deep Learning", "Python"],
+      featured: true,
+      description: {
+        es: "API de Flax (biblioteca de redes neuronales para JAX de Google) que usa clases de Python estándar y manejo de estado explícito para hacer la definición y el entrenamiento de modelos más simple e intuitivo.",
+        en: "API of Flax (Google's neural network library for JAX) that uses standard Python classes and explicit state handling to make defining and training models simpler and more intuitive.",
+        pt: "API do Flax (biblioteca de redes neurais para JAX do Google) que usa classes Python padrão e gerenciamento explícito de estado para tornar a definição e o treinamento de modelos mais simples e intuitivos.",
       },
     },
     {
@@ -289,6 +318,18 @@ window.CATEGORIES = {
       },
     },
     {
+      name: "Kiji Proxy",
+      url: "https://github.com/dataiku/kiji-proxy",
+      category: "extensions",
+      creator: C.david,
+      tags: ["Go", "Privacy", "AI Security"],
+      description: {
+        es: "Proxy de privacidad para APIs de IA que detecta y enmascara datos personales (PII) antes de enviarlos a servicios como OpenAI, Anthropic o Gemini, restaurándolos de forma transparente en la respuesta.",
+        en: "Privacy proxy for AI APIs that detects and masks personally identifiable information (PII) before it reaches services like OpenAI, Anthropic or Gemini, transparently restoring it in the response.",
+        pt: "Proxy de privacidade para APIs de IA que detecta e mascara dados pessoais (PII) antes de enviá-los a serviços como OpenAI, Anthropic ou Gemini, restaurando-os de forma transparente na resposta.",
+      },
+    },
+    {
       name: "FastAPI Cloud",
       url: "https://fastapicloud.com",
       category: "services",
@@ -310,6 +351,30 @@ window.CATEGORIES = {
         es: "Archivo GeoJSON con los límites geográficos de los departamentos de Colombia, listo para usar en mapas y visualizaciones con D3.js, Power BI, Metabase y otras herramientas.",
         en: "GeoJSON file with the geographic boundaries of Colombia's departments, ready to use in maps and visualizations with D3.js, Power BI, Metabase and other tools.",
         pt: "Arquivo GeoJSON com os limites geográficos dos departamentos da Colômbia, pronto para usar em mapas e visualizações com D3.js, Power BI, Metabase e outras ferramentas.",
+      },
+    },
+    {
+      name: "crd-ui",
+      url: "https://github.com/JuandaGarcia/crd-ui",
+      category: "libraries",
+      creator: C.juanda,
+      tags: ["React", "Vue", "Svelte"],
+      description: {
+        es: "Componente de tarjeta de crédito y débito para formularios de pago y vistas de tarjetas guardadas, con detección de marca en vivo, giro 3D y temas por variables CSS. Sin dependencias, para React, Vue, Svelte y JavaScript puro en un solo paquete.",
+        en: "Credit and debit card component for payment forms and saved-card views, with live brand detection, a 3D flip and CSS-variable theming. Dependency-free, for React, Vue, Svelte and vanilla JavaScript in a single package.",
+        pt: "Componente de cartão de crédito e débito para formulários de pagamento e visualizações de cartões salvos, com detecção de bandeira ao vivo, giro 3D e temas por variáveis CSS. Sem dependências, para React, Vue, Svelte e JavaScript puro em um único pacote.",
+      },
+    },
+    {
+      name: "ArchiHUB",
+      url: "https://github.com/Archihub-App",
+      category: "recursos",
+      creator: C.nestor,
+      tags: ["Gestión Documental", "Archivos", "Memoria"],
+      description: {
+        es: "Plataforma open source y versátil de gestión documental para organizar, preservar y explorar archivos digitales empleando estructuras de metadatos adaptables.",
+        en: "Versatile open-source document management platform to organize, preserve, and explore digital archives using adaptable metadata structures.",
+        pt: "Plataforma open source e versátil de gestão de documentos para organizar, preservar e explorar arquivos digitais usando estruturas de metadados adaptáveis.",
       },
     },
   ];
